@@ -1,7 +1,2 @@
-echo "# prolog" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/BartoszGogol/prolog.git
-git push -u origin main
+# zadanie 2
+prolog -> zadania prolog
